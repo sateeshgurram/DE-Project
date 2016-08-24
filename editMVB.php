@@ -21,6 +21,8 @@ if(mysql_num_rows($query)>=1){
 <html>
 <body>
 <div id="container">
+	
+</div>
 	<div id="header">
 			<img src="https://www.nasa.de/fileadmin/content/02_verkehr_planung/05_tarife/img/Logo_marego_print.jpg" alt="" align="right" width="200" height="100">
 			<br><br><br>
