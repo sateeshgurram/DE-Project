@@ -1,0 +1,49 @@
+<html>
+<body>
+           <div id="header">
+			  <img src="https://www.nasa.de/fileadmin/content/02_verkehr_planung/05_tarife/img/Logo_marego_print.jpg" alt="" align="right" width="200" height="100">
+			  <br><br><br>
+	       </div>		
+		   
+		   <div id="header">
+		     <img alt="dbheader.png" src="https://blog.captaintrain.com/wp-content/uploads/2014/06/DB-Bahn.png" align="left" width="135" height="50">
+             <br><br><br>
+			 <hr>
+           </div>			 
+		   
+	      <div id="header">
+	         	<div id="header-container">
+			         <h2> Personal Portal for the Revenue Sharing Process </a></h2><br>
+			  <ul>
+           
+	        	     <form>
+                        <input type="button" value="View and Edit Personal data" style="width: 200px; height: 25px;" onclick="window.location.href='http://facebook.com'" />
+                     </form><br>
+				 
+                     <form>
+                       <input type="button" value="View and Edit Sold ticket" style="width: 200px; height: 25px;" onclick="window.location.href='http://youtube.com'" />
+                     </form>
+
+	 	      </ul>		
+		  </div>
+
+	
+		
+	<div id="footer">
+	<br><br><br><br><br><br><br><br><br>
+			<img src="Capture.jpg" align="bottom" width="1350" height="128">
+	</div>
+	
+
+	
+</body>
+</html>	
+
+
+
+
+
+
+
+
+
